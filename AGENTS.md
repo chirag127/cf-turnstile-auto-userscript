@@ -32,4 +32,5 @@ Shared guide: https://github.com/chirag127/userscript-install-guide
 right-click → **Click now (manual)**, confirm the checkbox clicks (console logs "manual
 click ok").
 
-Documentation is single-sourced at `c:\ws\docs\okf\`. Your note: `c:\ws\docs\okf\scripts\cf-turnstile-auto-userscript.md`. Do not create an `okf/` folder here.
+Documentation is single-sourced at `c:\ws\docs/okf\`. Your note: `c:\ws\docs/okf\scripts\cf-turnstile-auto-userscript.md`. Do not create an `okf/` folder here.
+
